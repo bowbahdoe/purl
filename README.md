@@ -15,7 +15,7 @@ with a few minor changes to the code and dependencies.
 <dependency>
     <groupId>dev.mccue</groupId>
     <artifactId>purl</artifactId>
-    <version>0.0.1</version>
+    <version>2023.11.07</version>
 </dependency>
 ```
 
@@ -23,6 +23,6 @@ with a few minor changes to the code and dependencies.
 
 ```
 dependencies {
-    implementation("dev.mccue:purl:0.0.1")
+    implementation("dev.mccue:purl:2023.11.07")
 }
 ```
